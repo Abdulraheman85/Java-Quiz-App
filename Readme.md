@@ -1,8 +1,8 @@
 # Readme
-This app was developed as a learning project for Android. It is developed in Android Studio 2.1<br>
+This app was developed as a learning project for Android. It is developed in Android Studio 2023.3.1 <br>
 
 ## Introduction
-Java Quiz App is an android based application, and enables the user to undertake a series of questions on Java language. The app is user friendly, and the user shall find it extremely easy to answer the multiple-choice questions. At the end of the quiz, a result-report is generated which states the score. The app also presents an option to the current user to play the question-round again or quit in between.<br>
+Welcome to the Java Quiz app, where you can test your knowledge of one of the most popular programming languages in the world. This app is designed to educate users on various aspects of Java programming. Whether you are a beginner looking to improve your skills or a seasoned developer wanting to brush up on your knowledge, this quiz app is the perfect tool for you. Get ready to put your Java skills to the test and see how much you really know about this versatile language! Let's get started and see if you can score high on the Java Quiz app.<br>
 <br>There are four Activities in the app :<br>
 <ol>
 <li> <b>Main </b>– displays Home Screen of application.
